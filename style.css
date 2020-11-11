@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    /* background-color: black; */
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.board{
+    height: 85vh;
+    width: 80vw;
+    background-color: #1a0d52;
+    border-radius: 10px;
+}
+.ball{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: pink;
+    position: fixed;
+    top: 45vh;
+    left: 50vh;
+}
+.paddle{
+    background-color: pink;
+    height: 120px;
+    width: 15px;
+    position: fixed;
+    border-radius: 2px;
+}
+.left{
+    top: 40vh;
+    left: 25vh;
+}
+.right{
+    top: 40vh;
+    right: 25vh;
+}
+.fa-circle{
+    color: #ffbe76;
+    font-size: 2rem;
+}
+.scoreboard{
+    display: flex;
+    height: 60px;
+    justify-content: space-evenly;
+    align-items: center;
+    float: 1 1 1;
+}
+.separator{
+    width: 4px;
+    height: 70%;
+    background-color: black;
+}
