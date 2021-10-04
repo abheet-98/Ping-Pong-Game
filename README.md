@@ -7,3 +7,5 @@ Player 2 can use "Arrow Up" and "Arrow Down" key of the keyboard to make the pad
 
 Both the players get three chances.
 One who gets 3 penalites looses the game and other player wins !
+
+This is a simple game development using HTML and Scripts.
