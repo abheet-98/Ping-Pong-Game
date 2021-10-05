@@ -8,6 +8,12 @@ So this will be great for beginner's to Contribute 😇.
 <img src="ss.png" alt="img" width="50%">
 </p>
 <hr>
+<h2>Set up</h2>
+To run the application:</br>
+1. clone the repository</br>
+2. cd into Ping-Pong-Game</br>
+3. type <code>open index.html</code></br>
+Game will then open in your browswer !
 <h2> Instructions 📜</h2>
 
 🔰 Player 1 can use 'W' and 'S' key of the keyboard to make the paddle up and down.<br>
